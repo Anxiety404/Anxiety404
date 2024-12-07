@@ -1,8 +1,6 @@
-#readme.md
-
 👋 Hello there! I'm Jay!
 
-Anxiety404
+Names I go by: Anxiety404, Jelly
 
 I'm dutch!
 
