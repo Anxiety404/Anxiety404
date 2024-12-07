@@ -11,3 +11,5 @@ You may know me as Anxiety404 or Jelly
 🎮 I love MILK OUTSIDE A BAG OF MILK OUTSIDE A BAG OF MILK
 
 ☕ I'm a tea guy
+
+🔎 Check out my website https://anxiety404.github.io/Jay-personal-website/
