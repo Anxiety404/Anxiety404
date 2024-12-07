@@ -1,6 +1,6 @@
 👋 Hello there! I'm Jay!
 
-Names I go by: Anxiety404, Jelly
+You may know me as Anxiety404, Jelly
 
 I'm dutch!
 
