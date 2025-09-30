@@ -12,4 +12,4 @@ You may know me as Anxiety404 or Jelly
 
 ☕ I'm a tea guy
 
-🔎 Check out my website https://anxiety404.github.io/Jay-personal-website/
+🔎 Check out my website (in development) https://anxiety404.github.io/Jay-personal-website/
