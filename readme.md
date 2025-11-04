@@ -8,3 +8,4 @@ Yo, I’m J. Some things I like are the game MILK OUTSIDE A BAG OF MILK (milk fo
 Website:
 Skills:
 View count:
+stats
