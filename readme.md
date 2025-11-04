@@ -1,15 +1,10 @@
-👋 Hello there! I'm Jay!
+J... (change font, animate dots)
+---
 
-You may know me as Anxiety404 or Jelly
+<img src="img/" alt="Milk_img" width="170" align="right" style="margin-left: 15px;"> (Make a banner)
+![Alt text](https://ibb.co/HfKtPF1x)
 
-🇳🇱 I'm dutch!
-
-💻 I'm currently learning to be a Software Developer
-
-🎯 I'm currently working on my flappy birds project and my personal website
-
-🎮 I love MILK OUTSIDE A BAG OF MILK OUTSIDE A BAG OF MILK
-
-☕ I'm a tea guy
-
-🔎 Check out my website (in development) https://anxiety404.github.io/Jay-personal-website/
+Yo, I’m J. Some things I like are the game MILK OUTSIDE A BAG OF MILK (milk font, maybe make it wavy) and tea.
+Website:
+Skills:
+View count:
