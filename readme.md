@@ -1,11 +1,11 @@
 J...
 ---
 
-<img src="img/Doctor.webp" alt="Doc_img" width="300" align="right" style="margin-left: 15px;">
+<img src="img/Doctor.webp" alt="Doc_img" width="350" align="right" style="margin-left: 15px; display:inline-block;">
 
 🔹Interests: Coding, anime, competitive gaming and music  
 🔹Current goal: My personal website  
-🔹Learning: Algorithmic thinking & optimization
+🔹Learning: Algorithmic thinking & optimizationtho
 
 Website: []()
   
