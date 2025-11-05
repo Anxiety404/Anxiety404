@@ -1,15 +1,32 @@
-👋 Hello there! I'm Jay!
+J...
+---
 
-You may know me as Anxiety404 or Jelly
+<img src="img/Doctor.webp" alt="Doc_img" width="330" align="right" style="margin: 0 auto 10px auto; transform: scaleX(-1);">
 
-🇳🇱 I'm dutch!
+🔹Interests: Coding, anime, competitive gaming and music  
+🔹Current goal: My personal website  
+🔹Learning: Algorithmic thinking & optimization
 
-💻 I'm currently learning to be a Software Developer
+Website: []()
+  
+### Skills
+[![My Skills](https://skillicons.dev/icons?i=php,nginx,sqlite,mysql,py,js,html,css,cs,tailwind,bootstrap,bash,npm,git,github,firebase,docker,vscode&theme=dark&perline=10)](https://skillicons.dev)
 
-🎯 I'm currently working on my flappy birds project and my personal website
+## Stats
 
-🎮 I love MILK OUTSIDE A BAG OF MILK OUTSIDE A BAG OF MILK
+<!-- Statistics and language cards displayed side by side -->
+<div align="left">
+  <img
+    height="180"
+    src="https://github-readme-stats-one-bice.vercel.app/api?theme=transparent&username=Anxiety404&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=a50000&text_color=b90000&icon_color=9a009a&border_color=a00000"
+    alt="J_404 GitHub stats"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?theme=transparent&username=Anxiety404&layout=compact&hide=html,Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=12&title_color=a50000&text_color=b90000&icon_color=9a009a&border_color=a00000"
+    alt="J_404 Common_used_languages"
+  />
+</div>
 
-☕ I'm a tea guy
-
-🔎 Check out my website (in development) https://anxiety404.github.io/Jay-personal-website/
+## View count
+![Anxiety404](https://count.getloli.com/@Anxiety404?theme=booru-touhoulat)
