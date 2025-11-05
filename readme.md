@@ -1,7 +1,7 @@
 J...
 ---
 
-<img src="img/Doctor.webp" alt="Doc_img" width="330" align="right" style="margin: 0 auto 10px auto;">
+<img src="img/Doctor.webp" alt="Doc_img" width="330" align="right" style="margin-left: 15px;">
 
 🔹Interests: Coding, anime, competitive gaming and music  
 🔹Current goal: My personal website  
