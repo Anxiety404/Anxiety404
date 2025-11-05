@@ -5,7 +5,7 @@ J...
 
 🔹Interests: Coding, anime, competitive gaming and music  
 🔹Current goal: My personal website  
-🔹Learning: Algorithmic thinking & optimizationtho
+🔹Learning: Algorithmic thinking & optimization
 
 Website: []()
   
