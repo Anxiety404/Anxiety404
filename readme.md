@@ -4,8 +4,8 @@ J...
 <img src="img/Doctor.webp" alt="Doc_img" width="250" align="right" style="margin-left: 15px;">
 
 🔹Interests: Coding, anime, competitive gaming and music  
-🔹Current goal: Unity project  
-🔹Learning: Algorithmic thinking & optimization
+🔹Current goal: Internship  
+🔹Learning: Optimization
 
 Website: []()
   
