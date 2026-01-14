@@ -27,6 +27,3 @@ Website: []()
     alt="J_404 Common_used_languages"
   />
 </div>
-
-## View count
-![Anxiety404](https://count.getloli.com/@Anxiety404?theme=morden-num)
