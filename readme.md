@@ -24,7 +24,7 @@ Website: []()
   />
   <img
     height="200"
-    width="350"
+    width="300"
     src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?theme=transparent&username=Anxiety404&layout=compact&hide=html,Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=12&title_color=8A8686&text_color=F07522&icon_color=29D6CC&border_color=525252"
     alt="J_404 Common_used_languages"
   />
