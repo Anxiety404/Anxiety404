@@ -17,13 +17,13 @@ Website: []()
 <!-- Statistics and language cards displayed side by side -->
 <div align="left">
   <img
-    height="180"
-    src="https://github-readme-stats-one-bice.vercel.app/api?theme=transparent&username=Anxiety404&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=8A8686&text_color=8A8686&icon_color=F07522&border_color=525252"
+    height="200"
+    src="https://github-readme-stats-one-bice.vercel.app/api?theme=transparent&username=Anxiety404&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&title_color=8A8686&text_color=F07522&icon_color=29D6CC&border_color=525252"
     alt="J_404 GitHub stats"
   />
   <img
-    height="180"
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?theme=transparent&username=Anxiety404&layout=compact&hide=html,Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=12&title_color=8A8686&text_color=8A8686&icon_color=F07522&border_color=525252"
+    height="200"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?theme=transparent&username=Anxiety404&layout=compact&hide=html,Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=12&title_color=8A8686&text_color=F07522&icon_color=29D6CC&border_color=525252"
     alt="J_404 Common_used_languages"
   />
 </div>
