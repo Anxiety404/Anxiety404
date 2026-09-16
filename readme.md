@@ -5,7 +5,7 @@ J...
 
 🔹Interests: Coding, anime, competitive gaming and music  
 🔹Current goal: Internship  
-🔹Learning: Optimization
+🔹Learning: Optimization of time, code and resources
 
 Website: []()
   
