@@ -10,7 +10,7 @@ J...
 Website: []()
   
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=php,nginx,sqlite,mysql,py,js,html,css,cs,tailwind,bootstrap,bash,npm,git,github,firebase,docker,vscode&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,nginx,sqlite,mysql,py,js,html,css,cs,tailwind,bash,npm,git,github,docker,vscode&theme=dark&perline=10)](https://skillicons.dev)
 
 ## Stats
 
